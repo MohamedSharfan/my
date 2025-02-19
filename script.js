@@ -1,3 +1,3 @@
-console.log("pushing the trree");
-console.log("love you");
+console.log("pushing the tree");
+console.log("nice");
 
